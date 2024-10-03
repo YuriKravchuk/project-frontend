@@ -1,0 +1,17 @@
+table, th, td{
+    border:1px solid black;
+}
+
+.players_thead_cell{
+    min-width: 80px;
+}
+.cell_small{
+    min-width: auto;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+
+.active-paging-button{
+    font-weight: bold;
+    background: darkgray;
+}
